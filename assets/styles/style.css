@@ -2,7 +2,6 @@
 body{
   background-color: white;
   margin: 0;
-  color: #f3f2f3;
   //font-family: 'Open Sans', sans-serif;
   font-family: 'GothamBook', sans-serif;
   font-size: 14px;
@@ -555,7 +554,7 @@ h1,h2,h3,h4,h5,h6{
   width: 580px;
   height: 436px;
 }
-#gallery__img__small{
+.gallery__img__small{
   width: 285px;
   height: 215px;
 }
